@@ -2,7 +2,7 @@
 
 I'm a developer passionate about game development, AI, and Android app development. I love creating immersive experiences using Unity and exploring the power of Python and Java for solving real-world problems.
 
-I'm especially interested in $1, and Reinforcement Learning (RL).
+I'm especially interested in Unity AI, Machine Learning, and Reinforcement Learning (RL).
 
 ## 💻 Tech Stack
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=Black)
@@ -22,8 +22,8 @@ I'm especially interested in $1, and Reinforcement Learning (RL).
 ---
 
 ### 💬 About Me
-- 🌱 Currently learning more about $1, and Reinforcement Learning (RL).
-- 🤝 Open to collaboration on game development and AI projects.
+- 🌱 Currently learning more about Unity AI, Machine Learning, and Reinforcement Learning (RL).
+- 🤝 Open to collaboration on game development, AI, and AR projects.
 - 📫 Reach me via [email](mailto:#).
 
 ## 📖 Blog & GitHub Pages
@@ -31,9 +31,8 @@ I'm especially interested in $1, and Reinforcement Learning (RL).
 - 🌐 Visit my [GitHub Page](https://ogamdo.github.io).
 
 ### 🚀 Featured Projects
-- [Survive-Mr.Kim](https://github.com/Ogamdo/Survive-Mr.Kim): A survival game built using Unity, focusing on strategic gameplay.
-- [CoffeeAR](https://github.com/Ogamdo/CoffeeRecommandAR): An AR application to recommend coffee using augmented reality technology.
-
+- [Survive-Mr.Kim](https://github.com/Ogamdo/Survive-Mr.Kim): 🎮 A Unity survival game focused on strategic gameplay.
+- [CoffeeAR](https://github.com/Ogamdo/CoffeeRecommandAR): ☕ An augmented reality app that recommends coffee types based on user preferences.
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -42,4 +41,3 @@ I'm especially interested in $1, and Reinforcement Learning (RL).
     height="120"
   />
 </a>
-  
