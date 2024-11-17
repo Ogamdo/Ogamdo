@@ -34,3 +34,12 @@ I'm especially interested in $1, and Reinforcement Learning (RL).
 - [Survive-Mr.Kim](https://github.com/Ogamdo/Survive-Mr.Kim): A survival game built using Unity, focusing on strategic gameplay.
 - [CoffeeAR](https://github.com/Ogamdo/CoffeeRecommandAR): An AR application to recommend coffee using augmented reality technology.
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Ogamdo"
+    width="600"
+    height="120"
+  />
+</a>
+  
