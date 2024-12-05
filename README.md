@@ -22,8 +22,8 @@ I'm especially interested in Unity AI, Machine Learning, and Reinforcement Learn
 ---
 
 ### 💬 About Me
-- 🌱 Currently learning more about Unity AI, Machine Learning, and Reinforcement Learning (RL).
-- 🤝 Open to collaboration on game development, AI, and AR projects.
+- 🌱 Currently learning more about Unity, Android, Reinforcement Learning (RL).
+
 - 📫 Reach me via [email](mailto:#).
 
 ## 📖 Blog & GitHub Pages
@@ -32,7 +32,7 @@ I'm especially interested in Unity AI, Machine Learning, and Reinforcement Learn
 
 ### 🚀 Featured Projects
 - [Survive-Mr.Kim](https://github.com/Ogamdo/Survive-Mr.Kim): 🎮 A Unity survival game focused on strategic gameplay.
-- [CoffeeAR](https://github.com/Ogamdo/CoffeeRecommandAR): ☕ An augmented reality app that recommends coffee types based on user preferences.
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
