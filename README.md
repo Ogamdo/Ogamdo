@@ -1,14 +1,11 @@
 # Hello, I'm Ogamdo! 👋
 
-I'm a developer passionate about game development, AI, and Android app development. I love creating immersive experiences using Unity and exploring the power of Python and Java for solving real-world problems.
+I'm a developer passionate about game development And Ai. I love creating immersive experiences using Unity and exploring the power of Python and Java for solving real-world problems.
 
 I'm especially interested in Unity AI, Machine Learning, and Reinforcement Learning (RL).
 
 ## 💻 Tech Stack
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=Black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ## 📊 GitHub Stats
