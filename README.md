@@ -24,9 +24,5 @@
 
 ![Ogamdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogamdo&show_icons=true&theme=radical)
 
-## 📈 BaekJoon Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjongik)](https://solved.ac/songjongik)
-
-
 
 
